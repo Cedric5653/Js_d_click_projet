@@ -49,7 +49,7 @@ body {
 }
 
 .deb button{
-    
+    display: flex;
     margin-top: 200px;
 }
 
